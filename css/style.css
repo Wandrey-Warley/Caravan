@@ -24,3 +24,9 @@ body {
     position: relative;
   }
 }
+.plano li{
+  padding: 1rem;  
+}
+.plano li + li {
+  border-top: 2px solid rgba(0, 0, 0, .08);
+}
